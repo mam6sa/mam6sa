@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mam6sa
+- 👋 Hi, I’m Mark
 - 👀 I’m interested in many things
 - 🌱 I’m currently learning how to use Github to manage product backlog
 - 💞️ I’m looking to collaborate on product management and medical education initiatives
